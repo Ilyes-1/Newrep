@@ -1,9 +1,9 @@
   <h1 align="center">A page about nothing</h1>
  
   Here is some random text not really about anything.  
-  Colored text: 
-  <color> I put some red text here because red is my favourite color</color>
-  <color>FFA500I<color>
+<p style="color: violet">This is a fancy sentence in violet.</p>
+
+  
   <img src="image.png" align="right" width="150">
  
 
