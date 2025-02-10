@@ -1,8 +1,7 @@
   <h1 align="center">A page about nothing</h1>
   Here is some random text not really about anything. 
   <p style="color:MediumSeaGreen;">here is some more text in a special color</p>
-  <img src="image.png" align="right" width="150">
-![random image](https://picsum.photos/id/237/250)
+  <img align="left" width="100" height="100" src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg">
  
 
 Here isA hyperlink to [another document](readme.md).This next part contains text that has a subscript, and the word I chose for that is VO<sub>2</sub>
