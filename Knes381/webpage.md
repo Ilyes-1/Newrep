@@ -2,7 +2,7 @@
  
   Here is some random text not really about anything. 
   <p style="color:MediumSeaGreen;">here is some more text in a special color</p>
-  
+  <img src="image.png" align="right" width="150">
 
  
 
