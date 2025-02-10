@@ -1,6 +1,8 @@
   <h1 align="center">A page about nothing</h1>
  
   Here is some random text not really about anything.  
+  Colored text: 
+  <span style="color:red"> I put some red text here because red is my favourite color
   <img src="image.png" align="right" width="150">
  
 
