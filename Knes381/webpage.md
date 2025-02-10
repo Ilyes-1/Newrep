@@ -1,9 +1,9 @@
   <h1 align="center">A page about nothing</h1>
  
-  Here is some random text not really about anything.  <p style="color: violet">This is a fancy sentence in violet.</p>
-
+  Here is some random text not really about anything. 
+  <p style="color:MediumSeaGreen;">here is some more text in a special color</p>
   
-  <img src="image.png" align="right" width="150">
+
  
 
 **A hyperlink to [another document](readme.md)**  
