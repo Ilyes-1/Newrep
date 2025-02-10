@@ -2,7 +2,7 @@
  
   Here is some random text not really about anything.  
   Colored text: 
-  <span style="color:red"> I put some red text here because red is my favourite color
+  <color>#FFA500I put some red text here because red is my favourite color</color>
   <img src="image.png" align="right" width="150">
  
 
