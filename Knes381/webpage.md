@@ -1,6 +1,5 @@
   <h1 align="center">A title that is centred</h1>
-
-- **A picture to the right of some text**  
+ 
   Text on the left  
   <img src="image.png" align="right" width="150">
 
