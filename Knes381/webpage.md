@@ -6,5 +6,5 @@
 
 **A hyperlink to [another document](readme.md)**  
 
-**Part of the text that requires either a subscript like VO₂**  
+This next part contains text that has a subscript, and the word I chose for that is
   VO<sub>2</sub>
