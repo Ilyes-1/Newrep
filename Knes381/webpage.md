@@ -2,7 +2,8 @@
  
   Here is some random text not really about anything.  
   Colored text: 
-  <color>#FFA500I put some red text here because red is my favourite color</color>
+  <color> I put some red text here because red is my favourite color</color>
+  <color>FFA500I<color>
   <img src="image.png" align="right" width="150">
  
 
