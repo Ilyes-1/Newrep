@@ -3,6 +3,7 @@
   Here is some random text not really about anything.  
   <img src="image.png" align="right" width="150">
   <span style="color:blue">This is text with a different color</span>
+  <font color="blue">This is text with a different color</font>
 
 - **A hyper-link to [another document](readme.md)**  
 
