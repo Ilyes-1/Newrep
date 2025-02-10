@@ -1,7 +1,6 @@
   <h1 align="center">A page about nothing</h1>
  
-  Here is some random text not really about anything.  
-<p style="color: violet">This is a fancy sentence in violet.</p>
+  Here is some random text not really about anything.  <p style="color: violet">This is a fancy sentence in violet.</p>
 
   
   <img src="image.png" align="right" width="150">
