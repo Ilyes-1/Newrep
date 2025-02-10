@@ -1,4 +1,4 @@
-  <h1 align="center">A title that is centred</h1>
+  <h1 align="center">A page about nothing</h1>
  
   Here is some random text not really about anything.  
   <img src="image.png" align="right" width="150">
