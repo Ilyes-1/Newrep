@@ -15,4 +15,4 @@ $${\color{green}Here\ is\ some\ more\ text\, this\ time\ in\ green\.  Please\ lo
 Here is a hyperlink to <a href="elephant_folder/random.jpg"> picture </a>
 
 
-This next part contains text that has a subscript, and the word I chose for that is VO<sub>2</sub>
+This next part contains text that has a subscript, and the word I chose for that is V&#775;O<sub>2</sub>
