@@ -12,4 +12,4 @@ $${\color{green}Here\ is\ some\ more\ text\, this\ time\ in\ green\.  Please\ lo
 
   <img align="right" width="100" height="100" src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg">
 
-Here is a hyperlink to [another document](readme.md).This next part contains text that has a subscript, and the word I chose for that is VO<sub>2</sub>
+Here is a hyperlink to [another document]().This next part contains text that has a subscript, and the word I chose for that is VO<sub>2</sub>
